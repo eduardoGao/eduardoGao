@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Díaz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend developer from Mexico</h3>
 
 - 🔭 I’m currently working on [Analytics](https://neo-analytics-frontend.herokuapp.com/)
 
